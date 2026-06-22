@@ -33,7 +33,7 @@ The core deep learning network is constructed using TensorFlow/Keras:
 
 ## 🛠️ Tech Stack
 * **Backend & ML:** Python, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy
-* **Frontend/UI:** React / Streamlit (Modify based on your specific implementation)
+* **Frontend/UI:** React / Streamlit
 * **Environment:** Jupyter Notebooks / Python 3.x
 
 ---
